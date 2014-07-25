@@ -2,7 +2,7 @@
 
 include ('db_connect.php');
 
-include ('games/*/controller.php');
+include ('games/Motus/controller.php');
 
 session_start();
 
